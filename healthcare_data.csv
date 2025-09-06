@@ -1,0 +1,101 @@
+PatientID,Age,Gender,Disease,RecoveryDays,Cost
+1,58,Female,Heart Disease,20,55547
+2,71,Male,Cancer,30,72386
+3,48,Female,Asthma,6,7166
+4,34,Male,Cancer,5,63403
+5,62,Female,Heart Disease,16,43121
+6,27,Female,Heart Disease,9,52303
+7,40,Male,Asthma,36,8774
+8,58,Female,Diabetes,13,13982
+9,77,Male,Diabetes,39,12853
+10,38,Female,Cancer,23,78312
+11,42,Male,Flu,20,2574
+12,30,Male,Cancer,7,72677
+13,30,Female,Asthma,24,7715
+14,43,Female,Asthma,28,10777
+15,72,Male,Asthma,37,10933
+16,55,Female,Asthma,28,9854
+17,59,Female,Asthma,15,11173
+18,43,Female,Heart Disease,12,45338
+19,22,Male,Diabetes,24,14491
+20,41,Male,Asthma,39,8660
+21,72,Male,Flu,29,4311
+22,21,Male,Flu,39,3595
+23,43,Male,Flu,29,2004
+24,63,Male,Flu,33,3126
+25,49,Male,Heart Disease,22,51699
+26,57,Male,Flu,22,2773
+27,21,Male,Asthma,6,6876
+28,79,Female,Cancer,39,82093
+29,40,Male,Flu,20,2046
+30,52,Female,Heart Disease,37,45202
+31,31,Female,Heart Disease,8,36966
+32,77,Female,Flu,37,4983
+33,41,Male,Cancer,18,57987
+34,63,Male,Flu,25,4703
+35,44,Male,Heart Disease,24,58940
+36,68,Male,Diabetes,12,16465
+37,46,Female,Asthma,11,6635
+38,78,Male,Heart Disease,7,43417
+39,61,Male,Flu,21,3693
+40,47,Male,Asthma,37,7682
+41,79,Male,Flu,16,2656
+42,35,Male,Flu,26,2119
+43,34,Female,Diabetes,26,12830
+44,66,Male,Asthma,34,11906
+45,70,Female,Asthma,12,9675
+46,63,Male,Diabetes,31,17177
+47,74,Female,Heart Disease,31,44262
+48,71,Male,Flu,38,3369
+49,76,Male,Cancer,25,75316
+50,22,Female,Flu,34,2116
+51,56,Female,Flu,37,3853
+52,70,Female,Heart Disease,32,49222
+53,26,Male,Flu,37,3150
+54,40,Female,Diabetes,9,19560
+55,28,Male,Diabetes,23,13931
+56,58,Male,Asthma,8,7012
+57,37,Female,Cancer,39,51081
+58,23,Female,Flu,21,2633
+59,44,Male,Flu,32,2512
+60,79,Male,Heart Disease,34,57425
+61,33,Female,Diabetes,33,17215
+62,69,Female,Cancer,10,57805
+63,77,Female,Asthma,39,11237
+64,28,Male,Diabetes,28,12559
+65,45,Male,Asthma,33,9672
+66,72,Male,Heart Disease,35,42775
+67,21,Male,Heart Disease,39,53788
+68,39,Male,Flu,37,2896
+69,47,Male,Cancer,25,53343
+70,66,Female,Asthma,36,11308
+71,79,Male,Diabetes,27,16070
+72,26,Male,Heart Disease,37,59375
+73,63,Male,Flu,7,3470
+74,27,Female,Flu,22,2580
+75,66,Male,Asthma,29,8294
+76,54,Male,Heart Disease,35,38130
+77,33,Female,Cancer,7,69531
+78,36,Male,Heart Disease,28,50633
+79,55,Male,Asthma,36,7679
+80,69,Male,Asthma,26,9506
+81,59,Male,Heart Disease,27,43284
+82,23,Male,Asthma,6,8744
+83,21,Female,Heart Disease,31,57932
+84,25,Female,Diabetes,6,16045
+85,73,Female,Heart Disease,30,39435
+86,61,Male,Heart Disease,21,51572
+87,23,Male,Asthma,37,9118
+88,73,Male,Asthma,13,11104
+89,48,Female,Flu,33,4141
+90,37,Male,Flu,30,3773
+91,45,Male,Diabetes,39,17053
+92,63,Female,Flu,29,2452
+93,53,Male,Heart Disease,28,59899
+94,29,Female,Asthma,17,8959
+95,55,Female,Flu,11,4265
+96,33,Female,Flu,24,4521
+97,50,Male,Diabetes,5,14479
+98,67,Male,Diabetes,12,18484
+99,34,Male,Heart Disease,20,59222
+100,27,Male,Asthma,18,7635
